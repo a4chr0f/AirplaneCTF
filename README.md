@@ -9,4 +9,4 @@ Este repositorio contiene un script de Python diseñado para el desafío CTF Try
 Ejecute el script con el siguiente comando::
 
 ```sh
-python script.py <base_url> <port>
+python Scanner.py <base_url> <port>
